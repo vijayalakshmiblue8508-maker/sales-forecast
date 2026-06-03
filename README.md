@@ -80,12 +80,19 @@ The system helps identify:
 
 **output screenshots**
 <img width="1069" height="477" alt="image" src="https://github.com/user-attachments/assets/c43a990c-097e-46e7-bf48-7178e2a691a7" />
+
 <img width="1219" height="496" alt="image" src="https://github.com/user-attachments/assets/23709fbd-0100-431f-90ab-3fdcca1aa4d0" />
+
 <img width="1206" height="493" alt="image" src="https://github.com/user-attachments/assets/9eadfa73-c2bd-4be4-8114-160a6b74c928" />
+
 <img width="1199" height="499" alt="image" src="https://github.com/user-attachments/assets/dfa4566f-beeb-4e9d-b327-e152bca4e7fa" />
+
 <img width="1212" height="484" alt="image" src="https://github.com/user-attachments/assets/99ae51e8-a126-4070-954e-e40504723af0" />
+
 <img width="948" height="522" alt="image" src="https://github.com/user-attachments/assets/c0bf81df-230f-49c2-b433-048be3e85368" />
+
 <img width="978" height="515" alt="image" src="https://github.com/user-attachments/assets/9d7a30c4-e8fa-40be-8110-4767f144a95a" />
+
 <img width="1092" height="502" alt="image" src="https://github.com/user-attachments/assets/d0d0f750-b55b-4046-a59d-6ec3fc68acc8" />
 
 
